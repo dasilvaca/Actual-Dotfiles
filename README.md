@@ -33,7 +33,7 @@ Here are going to be listed each dependency:
     * Neovim (Without plugins)
     * Visual Studio Code (Open Source Version)
 * IDEs (Empty)
-* Wallpapers: In .wallpapers there are some of my favorites. You can found some [here] (https://t.me/unix_wallpapers)
+* Wallpapers: In .wallpapers there are some of my favorites. You can found some [here](https://t.me/unix_wallpapers)
 
 ## Instructions
 

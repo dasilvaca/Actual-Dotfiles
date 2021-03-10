@@ -14,14 +14,17 @@ Here are going to be listed each dependency:
 * Wallpaper Setter: feh
     * I built an script for randomize wallpapers (for do this automatically in th .Scripts folder)
     * A gallery with my actual wallpapers are shown in .Wallpapers directory
+* Notifications Manager: Dunst
+* Bluetooth: Bluez, bluez-utilz, bluetooth
+* Wi-fi: iwd
 * File Manager: Thunar
 * Keybinding: xbindkeys
 * AUR helper: yay
 * Terminal Emulator: termite terminal
 * Terminal font: Hack Font
 * Sound System:
-    * Controller and Interface: ALSA
-    * Sound Server: Pulse Audio
+    * Controller and Interface: ALSA, ALSA-utils
+    * Sound Server: Pulse Audio, pulseaudio-alsa
 * Communications: 
     * Discord (Without plugins or themes yet)
     * Telegram Server (Just Desktop Client)
@@ -30,6 +33,15 @@ Here are going to be listed each dependency:
     * Neovim (Without plugins)
     * Visual Studio Code (Open Source Version)
 * IDEs (Empty)
+* Wallpapers: In .wallpapers there are some of my favorites. You can found some [here] (https://t.me/unix_wallpapers)
+
+## Instructions
+
+### Complete new Arch-Linux Installation (future feature)
+
+### An existing Linux installation
+
 ## Known Issues
+En este apartado irán scripts varios que definen funcionalidades del sistema, como cambio de fondo de pantalla, visualizador de volumen para alguna barra de estado
 
 wifi and bluetooth control are failing

@@ -16,5 +16,7 @@ Here are going to be listed each dependency:
 * File Manager: Thunar
 * Keybinding: xbindkeys
 * Terminal Emulator: termite terminal
-
+* Terminal font: Hack Font
 ## Known Issues
+
+wifi and bluetooth control are failing
